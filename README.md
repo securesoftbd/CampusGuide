@@ -1,16 +1,46 @@
-# campus_guide
+# Android & IOS Application
+# DIU Campus Guide
 
-A new Flutter application.
+<p><a href="https://sites.google.com/view/diucampusguide/home"><h1>Project Website</h1></a> </p> <br>
 
-## Getting Started
+<b>About</b>
+<p>It is an android and ios base application, campus guide, information project. The goals of this project are connect teacher and student by this app and help each other by providing information. Provides a proper guideline for a new student or any guest and also have many features for student & teachers to make easy campus life. </p> <br>
 
-This project is a starting point for a Flutter application.
+<p> <b>Product features</b><br>
 
-A few resources to get you started if this is your first Flutter project:
+1. Functional requirement<br>
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Functional requirements of our application are explained below.<br>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Teachers must have valid Information to login thus creating their individual profiles.<br>
+
+Students must have valid Information to login thus creating their individual profiles.<br>
+
+                Teacher can add counselling hour.<br>
+                Teacher create post.<br>
+                Teacher add their off day.<br>
+                Teacher can see the club information, transport schedule, campus map.<br>
+                Students can see the club information, transport schedule, campus map.<br>
+                Students search the Teacher.<br>
+                Student views post.<br>
+                Students identify course advisor, academic building.<br>
+                Students can add class routine.<br>
+                Students check notices board, question bank, thesis project.<br>
+                Emergency Service.<br>
+                Other facilities.<br>
+
+ 
+
+2. Non Functional requirement <br>
+
+Requirement that specifies criteria that can be used to judge the operation of a system are called nonfunctional requirements. Nonfunctional requirements of our system are mentioned below.<br>
+
+            Secure access of confidential data. <br>
+            Better component design to get efficiency at peak time. <br>
+            The application should be available for 24/7<br>
+            Maximum time availability.<br>
+            Mobile based online android application.</p><br><br>
+
+
+   <a href="https://sites.google.com/view/diucampusguide/home">Visit Website For More Information</a> 
+
